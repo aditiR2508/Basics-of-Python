@@ -1,7 +1,7 @@
 # Basics-of-Python
 ### Name: Aditi Rathore
 ### PRN: 25070123006
-### Batch: 2025-29
+### Batch: A1
 ### Branch: EnTC
 #
 # Experiment–2
